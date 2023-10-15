@@ -1,2 +1,4 @@
-# tailwind-vite
-Basics of Tailwind in ReactJS
+
+# bgChanger-mini
+Mini Project using Vite React
+>>>>>>> 56c4e6f (Initial commit)
